@@ -1,11 +1,6 @@
 # Auckland Crash Model
 Massey University, New Zealand 158.755 2024 - Project 4
 
-### Team:
-Anne Irwin
-Gal Fybish
-Soe Thu Yein Si Si
-
 ### Model:
 
 Create a model that can predict vehicle crashes in Auckland City. 
