@@ -5,7 +5,6 @@ pyproj
 pandas
 numpy
 matplotlib
-matplotlib.pyplot
 matplotlib.cm
 matplotlib.colors
 re
