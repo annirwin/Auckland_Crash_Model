@@ -5,14 +5,13 @@ import folium
 from streamlit_folium import folium_static
 from pyproj import Transformer
 
+# Colour maps
 from matplotlib import colormaps
 import matplotlib as mpl
 import matplotlib.colors as mcolors
-import numpy as np
 
 # Data manipulation
 import pandas as pd
-import numpy as np
 import re
 
 # DATA PROCESSING
