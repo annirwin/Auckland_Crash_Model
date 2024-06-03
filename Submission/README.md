@@ -10,7 +10,7 @@ Population counts - United Nations - World Population Prospects
 Open-Meteo Weather API
 
 ## Project files:
-
+- Main_Notebook.ipynb - this is the main file containing the development of the predictive model and providing predictions for future dates.
 
 
 
