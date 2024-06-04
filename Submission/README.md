@@ -2,9 +2,6 @@
 
 ## 158755 Project 4 - Group 1
 
-- Anne Irwin - 01074105
-- Soe Thu Yein Si - 24012734
-- Gal Fybish - 17137581
   
 ## Introduction:
 This project aims to create a model to predict vehicle crashes in Auckland City. Developing a predictive model for vehicle crashes in Auckland has several use cases. This information can be used to either plan resource allocation, such as police traffic monitoring or emergency/hospital service rosters or target certain areas with preventative measures, such as speed camera monitoring.
